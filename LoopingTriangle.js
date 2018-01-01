@@ -1,4 +1,4 @@
-/*Imprime Triagunlo
+/*Imprime Triangulo
 
 #
 ##
